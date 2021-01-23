@@ -1,2 +1,2 @@
-# iris_kmeans_clustering
-Incremental K-Means Clustering Algorithm Implementation, with experiments run against the Standard Kmeans (scikit learn) Algorithm Implementation on the Iris Dataset
+# Incremental KMeans Clustering Algorithm vs Standard Kmeans Clustering Algorithm on the Iris Dataset
+
